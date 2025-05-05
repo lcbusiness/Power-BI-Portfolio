@@ -12,7 +12,7 @@ Email sent teaching DAX to MAJ:
 Extract 3 digits = MID('Sheet1'[DoD Document Number], 4, 3)
 ```
 
-#Calculate Rows 
+# Calculate Rows 
 
 Email with DAX resolution to a problem:
 
