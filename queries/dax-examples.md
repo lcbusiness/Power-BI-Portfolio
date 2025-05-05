@@ -1,4 +1,4 @@
-# DAX Examples and Use Cases
+# DAX Use Cases
 
 Emails that were sent to my Major to assist him with building a DAX formula the formula allowed us to take Document Number of parts 
 such as WNX434WNX and extract the 434, this was necessary to allow a count of only specific items.
