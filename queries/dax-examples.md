@@ -26,7 +26,7 @@ Count 2 = CALCULATE( COUNTROWS('ZPOD Report') , FILTER('ZPOD Report', LEFT('ZPOD
 ```DAX
 Count 9 = CALCULATE( COUNTROWS('ZPOD Report') , FILTER('ZPOD Report', LEFT('ZPOD Report'[Supply Category Material Code], 1) = "9"))
 ```
-This measure counts how many rows in the 'ZPOD Report' table have a Supply Category Material Code that starts with the digit "2" or a "9"
+These measures counts how many rows in the 'ZPOD Report' table have a Supply Category Material Code that starts with the digit "2" or a "9"
 
 # Email Sent Debugging Errors:
 
