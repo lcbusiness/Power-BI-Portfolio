@@ -22,6 +22,11 @@ Welcome to my Power BI portfolio. This collection showcases real-world dashboard
 
 ---
 
+## 📂 Query Examples
+
+- [DAX Examples](queries/dax-examples.md)
+- [Power Query (M Language) Tips](queries/power-query-tips.md)
+
 ## 🧰 Tools Used
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
