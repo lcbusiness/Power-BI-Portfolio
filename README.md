@@ -6,23 +6,23 @@ Welcome to my Power BI portfolio. This collection showcases real-world dashboard
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects Sensitive or Internal Data is redacted
 
-### 🧭 Manning Document Dashboard
+### 🧭 Manning Document Dashboard (Real-world project – deployed in US Army environment - used internally)
 - Visualizes authorized vs. on-hand personnel across the battalion.
 - Created dynamic updates through Power BI relationships and DAX.
 - Enabled leadership to make accurate staffing decisions quickly.
 
 ---
 
-### 🛠 Internal Power BI Apps
+### 🛠 Internal Power BI Apps (Real-world project – deployed in US Army environment - used internally)
 - Developed two apps for internal use: a director-level and battalion-wide version.
 - Created personalized dashboards for managers with role-specific views.
 - Provided live training to representatives from Major Command on report access and usage.
 
 ---
 
-## 📂 Query Examples
+## 📂 Query Examples (Real-world – used internally)
 
 - [DAX Examples](queries/dax-examples.md)
 - [Power Query Examples](queries/debugging-examples.md)
